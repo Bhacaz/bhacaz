@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+### Latest GitHub activity
+<!--START_SECTION:activity-->
+
 <!--
 **Bhacaz/bhacaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
