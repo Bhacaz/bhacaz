@@ -3,6 +3,12 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#33](https://github.com//petalmd/bright_serializer/issues/33) in [petalmd/bright_serializer](https://github.com//petalmd/bright_serializer)
+2. ❗️ Opened issue [#32](https://github.com//petalmd/bright_serializer/issues/32) in [petalmd/bright_serializer](https://github.com//petalmd/bright_serializer)
+3. ❗️ Opened issue [#31](https://github.com//petalmd/bright_serializer/issues/31) in [petalmd/bright_serializer](https://github.com//petalmd/bright_serializer)
+4. ❌ Closed PR [#1](https://github.com//petalmd/bright_serializer/pull/1) in [petalmd/bright_serializer](https://github.com//petalmd/bright_serializer)
+5. ❌ Closed PR [#5](https://github.com//petalmd/bright_serializer/pull/5) in [petalmd/bright_serializer](https://github.com//petalmd/bright_serializer)
+<!--END_SECTION:activity-->
 
 <!--
 **Bhacaz/bhacaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
