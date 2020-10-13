@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10540](https://github.com/forem/forem/issues/10540) in [forem/forem](https://github.com/forem/forem)
+1. 🎉 Merged PR [#35](https://github.com/petalmd/bright_serializer/pull/35) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 2. 🗣 Commented on [#10540](https://github.com/forem/forem/issues/10540) in [forem/forem](https://github.com/forem/forem)
 3. 🗣 Commented on [#10540](https://github.com/forem/forem/issues/10540) in [forem/forem](https://github.com/forem/forem)
-4. 💪 Opened PR [#10540](https://github.com/forem/forem/pull/10540) in [forem/forem](https://github.com/forem/forem)
-5. 🗣 Commented on [#6755](https://github.com/forem/forem/issues/6755) in [forem/forem](https://github.com/forem/forem)
+4. 🗣 Commented on [#10540](https://github.com/forem/forem/issues/10540) in [forem/forem](https://github.com/forem/forem)
+5. 🗣 Commented on [#10540](https://github.com/forem/forem/issues/10540) in [forem/forem](https://github.com/forem/forem)
 <!--END_SECTION:activity-->
 
 <!--
