@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/petalmd/chapter-rails-blog/issues/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-2. 💪 Opened PR [#3](https://github.com/petalmd/chapter-rails-blog/pull/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-3. 🎉 Merged PR [#2](https://github.com/petalmd/chapter-rails-blog/pull/2) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-4. 🗣 Commented on [#2](https://github.com/petalmd/chapter-rails-blog/issues/2) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-5. 💪 Opened PR [#2](https://github.com/petalmd/chapter-rails-blog/pull/2) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+1. 🎉 Merged PR [#40](https://github.com/petalmd/bright_serializer/pull/40) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+2. 🗣 Commented on [#3](https://github.com/petalmd/chapter-rails-blog/issues/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+3. 💪 Opened PR [#3](https://github.com/petalmd/chapter-rails-blog/pull/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+4. 🎉 Merged PR [#2](https://github.com/petalmd/chapter-rails-blog/pull/2) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+5. 🗣 Commented on [#2](https://github.com/petalmd/chapter-rails-blog/issues/2) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
 <!--END_SECTION:activity-->
 
 <!--
