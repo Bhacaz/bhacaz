@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/petalmd/bright_serializer/pull/41) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 🎉 Merged PR [#3](https://github.com/petalmd/chapter-rails-blog/pull/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-3. 🎉 Merged PR [#40](https://github.com/petalmd/bright_serializer/pull/40) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 🗣 Commented on [#3](https://github.com/petalmd/chapter-rails-blog/issues/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-5. 💪 Opened PR [#3](https://github.com/petalmd/chapter-rails-blog/pull/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+1. ❌ Closed PR [#34](https://github.com/ggirou/yet-another-jenkins-notifier/pull/34) in [ggirou/yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier)
+2. 🎉 Merged PR [#43](https://github.com/petalmd/bright_serializer/pull/43) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 🎉 Merged PR [#42](https://github.com/petalmd/bright_serializer/pull/42) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 🎉 Merged PR [#41](https://github.com/petalmd/bright_serializer/pull/41) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 🎉 Merged PR [#3](https://github.com/petalmd/chapter-rails-blog/pull/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
 <!--END_SECTION:activity-->
 
 <!--
