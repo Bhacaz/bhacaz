@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/ggirou/yet-another-jenkins-notifier/pull/34) in [ggirou/yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier)
-2. 🎉 Merged PR [#43](https://github.com/petalmd/bright_serializer/pull/43) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 🎉 Merged PR [#42](https://github.com/petalmd/bright_serializer/pull/42) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 🎉 Merged PR [#41](https://github.com/petalmd/bright_serializer/pull/41) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 🎉 Merged PR [#3](https://github.com/petalmd/chapter-rails-blog/pull/3) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+1. 🎉 Merged PR [#1](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/1) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
+2. 💪 Opened PR [#1](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/1) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
+3. ❌ Closed PR [#34](https://github.com/ggirou/yet-another-jenkins-notifier/pull/34) in [ggirou/yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier)
+4. 🎉 Merged PR [#43](https://github.com/petalmd/bright_serializer/pull/43) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 🎉 Merged PR [#42](https://github.com/petalmd/bright_serializer/pull/42) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
