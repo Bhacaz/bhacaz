@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/petalmd/bright_serializer/pull/44) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 🎉 Merged PR [#46](https://github.com/petalmd/bright_serializer/pull/46) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 🎉 Merged PR [#47](https://github.com/petalmd/bright_serializer/pull/47) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 🎉 Merged PR [#1](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/1) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
-5. 💪 Opened PR [#1](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/1) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
+1. 🎉 Merged PR [#48](https://github.com/petalmd/bright_serializer/pull/48) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+2. 💪 Opened PR [#48](https://github.com/petalmd/bright_serializer/pull/48) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 🎉 Merged PR [#44](https://github.com/petalmd/bright_serializer/pull/44) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 🎉 Merged PR [#46](https://github.com/petalmd/bright_serializer/pull/46) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 🎉 Merged PR [#47](https://github.com/petalmd/bright_serializer/pull/47) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
