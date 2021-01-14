@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/petalmd/bright_serializer/pull/49) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 🎉 Merged PR [#48](https://github.com/petalmd/bright_serializer/pull/48) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 💪 Opened PR [#48](https://github.com/petalmd/bright_serializer/pull/48) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 🎉 Merged PR [#44](https://github.com/petalmd/bright_serializer/pull/44) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 🎉 Merged PR [#46](https://github.com/petalmd/bright_serializer/pull/46) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 💪 Opened PR [#733](https://github.com/toptal/chewy/pull/733) in [toptal/chewy](https://github.com/toptal/chewy)
+2. 💪 Opened PR [#49](https://github.com/petalmd/bright_serializer/pull/49) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 🎉 Merged PR [#48](https://github.com/petalmd/bright_serializer/pull/48) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 💪 Opened PR [#48](https://github.com/petalmd/bright_serializer/pull/48) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 🎉 Merged PR [#44](https://github.com/petalmd/bright_serializer/pull/44) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
