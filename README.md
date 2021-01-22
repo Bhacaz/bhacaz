@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/petalmd/bright_serializer/pull/50) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 💪 Opened PR [#9397](https://github.com/rubocop-hq/rubocop/pull/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
-3. ❌ Closed PR [#269](https://github.com/Bhacaz/rubocop/pull/269) in [Bhacaz/rubocop](https://github.com/Bhacaz/rubocop)
-4. 💪 Opened PR [#269](https://github.com/Bhacaz/rubocop/pull/269) in [Bhacaz/rubocop](https://github.com/Bhacaz/rubocop)
-5. 💪 Opened PR [#733](https://github.com/toptal/chewy/pull/733) in [toptal/chewy](https://github.com/toptal/chewy)
+1. 🗣 Commented on [#9397](https://github.com/rubocop-hq/rubocop/issues/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+2. 🎉 Merged PR [#50](https://github.com/petalmd/bright_serializer/pull/50) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 💪 Opened PR [#9397](https://github.com/rubocop-hq/rubocop/pull/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+4. ❌ Closed PR [#269](https://github.com/Bhacaz/rubocop/pull/269) in [Bhacaz/rubocop](https://github.com/Bhacaz/rubocop)
+5. 💪 Opened PR [#269](https://github.com/Bhacaz/rubocop/pull/269) in [Bhacaz/rubocop](https://github.com/Bhacaz/rubocop)
 <!--END_SECTION:activity-->
 
 <!--
