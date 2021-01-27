@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#733](https://github.com/toptal/chewy/issues/733) in [toptal/chewy](https://github.com/toptal/chewy)
-2. 🎉 Merged PR [#51](https://github.com/petalmd/bright_serializer/pull/51) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 🗣 Commented on [#9397](https://github.com/rubocop-hq/rubocop/issues/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
-4. 🎉 Merged PR [#50](https://github.com/petalmd/bright_serializer/pull/50) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 💪 Opened PR [#9397](https://github.com/rubocop-hq/rubocop/pull/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+1. 💪 Opened PR [#735](https://github.com/toptal/chewy/pull/735) in [toptal/chewy](https://github.com/toptal/chewy)
+2. 🗣 Commented on [#733](https://github.com/toptal/chewy/issues/733) in [toptal/chewy](https://github.com/toptal/chewy)
+3. 🎉 Merged PR [#51](https://github.com/petalmd/bright_serializer/pull/51) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 🗣 Commented on [#9397](https://github.com/rubocop-hq/rubocop/issues/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+5. 🎉 Merged PR [#50](https://github.com/petalmd/bright_serializer/pull/50) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
