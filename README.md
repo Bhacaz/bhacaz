@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9397](https://github.com/rubocop-hq/rubocop/issues/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
-2. 💪 Opened PR [#735](https://github.com/toptal/chewy/pull/735) in [toptal/chewy](https://github.com/toptal/chewy)
-3. 🗣 Commented on [#733](https://github.com/toptal/chewy/issues/733) in [toptal/chewy](https://github.com/toptal/chewy)
-4. 🎉 Merged PR [#51](https://github.com/petalmd/bright_serializer/pull/51) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 🗣 Commented on [#9397](https://github.com/rubocop-hq/rubocop/issues/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+1. ❌ Closed PR [#8](https://github.com/petalmd/pullapprove-config/pull/8) in [petalmd/pullapprove-config](https://github.com/petalmd/pullapprove-config)
+2. 🗣 Commented on [#8](https://github.com/petalmd/pullapprove-config/issues/8) in [petalmd/pullapprove-config](https://github.com/petalmd/pullapprove-config)
+3. 💪 Opened PR [#8](https://github.com/petalmd/pullapprove-config/pull/8) in [petalmd/pullapprove-config](https://github.com/petalmd/pullapprove-config)
+4. 🗣 Commented on [#9397](https://github.com/rubocop-hq/rubocop/issues/9397) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+5. 💪 Opened PR [#735](https://github.com/toptal/chewy/pull/735) in [toptal/chewy](https://github.com/toptal/chewy)
 <!--END_SECTION:activity-->
 
 <!--
