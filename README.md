@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#740](https://github.com/toptal/chewy/issues/740) in [toptal/chewy](https://github.com/toptal/chewy)
-2. 💪 Opened PR [#742](https://github.com/toptal/chewy/pull/742) in [toptal/chewy](https://github.com/toptal/chewy)
-3. 💪 Opened PR [#740](https://github.com/toptal/chewy/pull/740) in [toptal/chewy](https://github.com/toptal/chewy)
-4. ❌ Closed PR [#8](https://github.com/petalmd/pullapprove-config/pull/8) in [petalmd/pullapprove-config](https://github.com/petalmd/pullapprove-config)
-5. 🗣 Commented on [#8](https://github.com/petalmd/pullapprove-config/issues/8) in [petalmd/pullapprove-config](https://github.com/petalmd/pullapprove-config)
+1. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
+2. 🗣 Commented on [#740](https://github.com/toptal/chewy/issues/740) in [toptal/chewy](https://github.com/toptal/chewy)
+3. 💪 Opened PR [#742](https://github.com/toptal/chewy/pull/742) in [toptal/chewy](https://github.com/toptal/chewy)
+4. 💪 Opened PR [#740](https://github.com/toptal/chewy/pull/740) in [toptal/chewy](https://github.com/toptal/chewy)
+5. ❌ Closed PR [#8](https://github.com/petalmd/pullapprove-config/pull/8) in [petalmd/pullapprove-config](https://github.com/petalmd/pullapprove-config)
 <!--END_SECTION:activity-->
 
 <!--
