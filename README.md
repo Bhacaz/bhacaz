@@ -5,9 +5,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
 2. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
-3. 🗣 Commented on [#740](https://github.com/toptal/chewy/issues/740) in [toptal/chewy](https://github.com/toptal/chewy)
-4. 💪 Opened PR [#742](https://github.com/toptal/chewy/pull/742) in [toptal/chewy](https://github.com/toptal/chewy)
-5. 💪 Opened PR [#740](https://github.com/toptal/chewy/pull/740) in [toptal/chewy](https://github.com/toptal/chewy)
+3. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
+4. 🗣 Commented on [#740](https://github.com/toptal/chewy/issues/740) in [toptal/chewy](https://github.com/toptal/chewy)
+5. 💪 Opened PR [#742](https://github.com/toptal/chewy/pull/742) in [toptal/chewy](https://github.com/toptal/chewy)
 <!--END_SECTION:activity-->
 
 <!--
