@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Bhacaz/pull_request_template/pull/1) in [Bhacaz/pull_request_template](https://github.com/Bhacaz/pull_request_template)
-2. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
-3. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
-4. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
-5. 🗣 Commented on [#740](https://github.com/toptal/chewy/issues/740) in [toptal/chewy](https://github.com/toptal/chewy)
+1. 💪 Opened PR [#2](https://github.com/Bhacaz/label-regex/pull/2) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+2. ❌ Closed PR [#1](https://github.com/Bhacaz/label-regex/pull/1) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+3. 💪 Opened PR [#1](https://github.com/Bhacaz/label-regex/pull/1) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+4. 💪 Opened PR [#1](https://github.com/Bhacaz/pull_request_template/pull/1) in [Bhacaz/pull_request_template](https://github.com/Bhacaz/pull_request_template)
+5. 🗣 Commented on [#742](https://github.com/toptal/chewy/issues/742) in [toptal/chewy](https://github.com/toptal/chewy)
 <!--END_SECTION:activity-->
 
 <!--
