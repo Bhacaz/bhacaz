@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/petalmd/bright_serializer/pull/57) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. ❌ Closed PR [#3](https://github.com/Bhacaz/label-regex/pull/3) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-3. 🎉 Merged PR [#54](https://github.com/petalmd/bright_serializer/pull/54) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 💪 Opened PR [#54](https://github.com/petalmd/bright_serializer/pull/54) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. ❌ Closed PR [#2](https://github.com/Bhacaz/label-regex/pull/2) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+1. 💪 Opened PR [#4](https://github.com/petalmd/chapter-rails-blog/pull/4) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+2. 🎉 Merged PR [#57](https://github.com/petalmd/bright_serializer/pull/57) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 💪 Opened PR [#57](https://github.com/petalmd/bright_serializer/pull/57) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. ❌ Closed PR [#3](https://github.com/Bhacaz/label-regex/pull/3) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+5. 🎉 Merged PR [#54](https://github.com/petalmd/bright_serializer/pull/54) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
