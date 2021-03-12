@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/petalmd/chapter-rails-blog/pull/4) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-2. ❌ Closed PR [#2](https://github.com/petalmd/chewy/pull/2) in [petalmd/chewy](https://github.com/petalmd/chewy)
-3. 💪 Opened PR [#4](https://github.com/petalmd/chapter-rails-blog/pull/4) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
-4. 🎉 Merged PR [#57](https://github.com/petalmd/bright_serializer/pull/57) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 💪 Opened PR [#57](https://github.com/petalmd/bright_serializer/pull/57) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 💪 Opened PR [#58](https://github.com/petalmd/bright_serializer/pull/58) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+2. 🎉 Merged PR [#4](https://github.com/petalmd/chapter-rails-blog/pull/4) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+3. ❌ Closed PR [#2](https://github.com/petalmd/chewy/pull/2) in [petalmd/chewy](https://github.com/petalmd/chewy)
+4. 💪 Opened PR [#4](https://github.com/petalmd/chapter-rails-blog/pull/4) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+5. 🎉 Merged PR [#57](https://github.com/petalmd/bright_serializer/pull/57) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
