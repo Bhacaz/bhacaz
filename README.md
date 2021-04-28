@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Bhacaz/bright_serializer/pull/3) in [Bhacaz/bright_serializer](https://github.com/Bhacaz/bright_serializer)
-2. ❗️ Closed issue [#1](https://github.com/petalmd/chewy/issues/1) in [petalmd/chewy](https://github.com/petalmd/chewy)
-3. 🗣 Commented on [#58](https://github.com/petalmd/bright_serializer/issues/58) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 💪 Opened PR [#58](https://github.com/petalmd/bright_serializer/pull/58) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 🎉 Merged PR [#4](https://github.com/petalmd/chapter-rails-blog/pull/4) in [petalmd/chapter-rails-blog](https://github.com/petalmd/chapter-rails-blog)
+1. 🎉 Merged PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+2. 💪 Opened PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+3. 💪 Opened PR [#3](https://github.com/Bhacaz/bright_serializer/pull/3) in [Bhacaz/bright_serializer](https://github.com/Bhacaz/bright_serializer)
+4. ❗️ Closed issue [#1](https://github.com/petalmd/chewy/issues/1) in [petalmd/chewy](https://github.com/petalmd/chewy)
+5. 🗣 Commented on [#58](https://github.com/petalmd/bright_serializer/issues/58) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
