@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-2. 💪 Opened PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-3. 💪 Opened PR [#3](https://github.com/Bhacaz/bright_serializer/pull/3) in [Bhacaz/bright_serializer](https://github.com/Bhacaz/bright_serializer)
-4. ❗️ Closed issue [#1](https://github.com/petalmd/chewy/issues/1) in [petalmd/chewy](https://github.com/petalmd/chewy)
-5. 🗣 Commented on [#58](https://github.com/petalmd/bright_serializer/issues/58) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 💪 Opened PR [#2](https://github.com/Bhacaz/rails/pull/2) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
+2. ❌ Closed PR [#1](https://github.com/Bhacaz/rails/pull/1) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
+3. 💪 Opened PR [#1](https://github.com/Bhacaz/rails/pull/1) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
+4. 🎉 Merged PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+5. 💪 Opened PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
 <!--END_SECTION:activity-->
 
 <!--
