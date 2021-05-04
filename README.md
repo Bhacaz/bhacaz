@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Bhacaz/rails/pull/2) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
-2. ❌ Closed PR [#1](https://github.com/Bhacaz/rails/pull/1) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
-3. 💪 Opened PR [#1](https://github.com/Bhacaz/rails/pull/1) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
-4. 🎉 Merged PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-5. 💪 Opened PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+1. 💪 Opened PR [#42139](https://github.com/rails/rails/pull/42139) in [rails/rails](https://github.com/rails/rails)
+2. 💪 Opened PR [#2](https://github.com/Bhacaz/rails/pull/2) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
+3. ❌ Closed PR [#1](https://github.com/Bhacaz/rails/pull/1) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
+4. 💪 Opened PR [#1](https://github.com/Bhacaz/rails/pull/1) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
+5. 🎉 Merged PR [#15](https://github.com/Bhacaz/democraylist-be/pull/15) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
 <!--END_SECTION:activity-->
 
 <!--
