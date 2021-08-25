@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/petalmd/bright_serializer/pull/73) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. ❌ Closed PR [#1](https://github.com/Bhacaz/detect-alter-table/pull/1) in [Bhacaz/detect-alter-table](https://github.com/Bhacaz/detect-alter-table)
-3. 🗣 Commented on [#1](https://github.com/Bhacaz/detect-alter-table/issues/1) in [Bhacaz/detect-alter-table](https://github.com/Bhacaz/detect-alter-table)
-4. 💪 Opened PR [#1](https://github.com/Bhacaz/detect-alter-table/pull/1) in [Bhacaz/detect-alter-table](https://github.com/Bhacaz/detect-alter-table)
-5. 💪 Opened PR [#73](https://github.com/petalmd/bright_serializer/pull/73) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 💪 Opened PR [#76](https://github.com/petalmd/bright_serializer/pull/76) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+2. 🎉 Merged PR [#73](https://github.com/petalmd/bright_serializer/pull/73) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. ❌ Closed PR [#1](https://github.com/Bhacaz/detect-alter-table/pull/1) in [Bhacaz/detect-alter-table](https://github.com/Bhacaz/detect-alter-table)
+4. 🗣 Commented on [#1](https://github.com/Bhacaz/detect-alter-table/issues/1) in [Bhacaz/detect-alter-table](https://github.com/Bhacaz/detect-alter-table)
+5. 💪 Opened PR [#1](https://github.com/Bhacaz/detect-alter-table/pull/1) in [Bhacaz/detect-alter-table](https://github.com/Bhacaz/detect-alter-table)
 <!--END_SECTION:activity-->
 
 <!--
