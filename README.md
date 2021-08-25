@@ -3,10 +3,10 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/petalmd/bright_serializer/pull/73) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. ❗️ Opened issue [#24](https://github.com/Bhacaz/democraylist-be/issues/24) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-3. ❌ Closed PR [#2](https://github.com/Bhacaz/rails/pull/2) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
-4. 💪 Opened PR [#2](https://github.com/Bhacaz/rails/pull/2) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
+1. 💪 Opened PR [#1](https://github.com/Bhacaz/detect-alter-table/pull/1) in [Bhacaz/detect-alter-table](https://github.com/Bhacaz/detect-alter-table)
+2. 💪 Opened PR [#73](https://github.com/petalmd/bright_serializer/pull/73) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. ❗️ Opened issue [#24](https://github.com/Bhacaz/democraylist-be/issues/24) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+4. ❌ Closed PR [#2](https://github.com/Bhacaz/rails/pull/2) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
 5. ❌ Closed PR [#1](https://github.com/Bhacaz/rails/pull/1) in [Bhacaz/rails](https://github.com/Bhacaz/rails)
 <!--END_SECTION:activity-->
 
