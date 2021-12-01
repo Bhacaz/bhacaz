@@ -3,8 +3,8 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/petalmd/bright_serializer/issues/81) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. ❌ Closed PR [#1](https://github.com/Bhacaz/bright_serializer/pull/1) in [Bhacaz/bright_serializer](https://github.com/Bhacaz/bright_serializer)
+1. 🎉 Merged PR [#2](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/2) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
+2. 💪 Opened PR [#2](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/2) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
 3. ❌ Closed PR [#3](https://github.com/Bhacaz/bright_serializer/pull/3) in [Bhacaz/bright_serializer](https://github.com/Bhacaz/bright_serializer)
 4. 🎉 Merged PR [#76](https://github.com/petalmd/bright_serializer/pull/76) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 5. 💪 Opened PR [#27](https://github.com/tagliala/coveralls-ruby-reborn/pull/27) in [tagliala/coveralls-ruby-reborn](https://github.com/tagliala/coveralls-ruby-reborn)
