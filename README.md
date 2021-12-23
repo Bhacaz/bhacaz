@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/petalmd/rubocop-petal/pull/2) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. 💪 Opened PR [#1](https://github.com/petalmd/rubocop-petal/pull/1) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-3. 🎉 Merged PR [#2](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/2) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
-4. 💪 Opened PR [#2](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/2) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
-5. 💪 Opened PR [#27](https://github.com/tagliala/coveralls-ruby-reborn/pull/27) in [tagliala/coveralls-ruby-reborn](https://github.com/tagliala/coveralls-ruby-reborn)
+1. 💪 Opened PR [#4](https://github.com/petalmd/rubocop-petal/pull/4) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 💪 Opened PR [#3](https://github.com/petalmd/rubocop-petal/pull/3) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 💪 Opened PR [#2](https://github.com/petalmd/rubocop-petal/pull/2) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+4. 💪 Opened PR [#1](https://github.com/petalmd/rubocop-petal/pull/1) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+5. 🎉 Merged PR [#2](https://github.com/Bhacaz/Advent-of-Code-Slack/pull/2) in [Bhacaz/Advent-of-Code-Slack](https://github.com/Bhacaz/Advent-of-Code-Slack)
 <!--END_SECTION:activity-->
 
 <!--
