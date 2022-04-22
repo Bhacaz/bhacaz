@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Bhacaz/democraylist-be/pull/40) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-2. 🎉 Merged PR [#43](https://github.com/Bhacaz/democraylist-be/pull/43) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-3. 🎉 Merged PR [#39](https://github.com/Bhacaz/democraylist-be/pull/39) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-4. 🗣 Commented on [#39](https://github.com/Bhacaz/democraylist-be/issues/39) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-5. 🎉 Merged PR [#42](https://github.com/Bhacaz/democraylist-be/pull/42) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+1. 💪 Opened PR [#91](https://github.com/petalmd/bright_serializer/pull/91) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+2. 💪 Opened PR [#90](https://github.com/petalmd/bright_serializer/pull/90) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 🎉 Merged PR [#40](https://github.com/Bhacaz/democraylist-be/pull/40) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+4. 🎉 Merged PR [#43](https://github.com/Bhacaz/democraylist-be/pull/43) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+5. 🎉 Merged PR [#39](https://github.com/Bhacaz/democraylist-be/pull/39) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
 <!--END_SECTION:activity-->
 
 <!--
