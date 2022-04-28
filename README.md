@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/petalmd/rubocop-petal/pull/20) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. 💪 Opened PR [#91](https://github.com/petalmd/bright_serializer/pull/91) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 💪 Opened PR [#90](https://github.com/petalmd/bright_serializer/pull/90) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 🎉 Merged PR [#40](https://github.com/Bhacaz/democraylist-be/pull/40) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-5. 🎉 Merged PR [#43](https://github.com/Bhacaz/democraylist-be/pull/43) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
+1. 💪 Opened PR [#21](https://github.com/petalmd/rubocop-petal/pull/21) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🎉 Merged PR [#20](https://github.com/petalmd/rubocop-petal/pull/20) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 💪 Opened PR [#91](https://github.com/petalmd/bright_serializer/pull/91) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 💪 Opened PR [#90](https://github.com/petalmd/bright_serializer/pull/90) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 🎉 Merged PR [#40](https://github.com/Bhacaz/democraylist-be/pull/40) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
 <!--END_SECTION:activity-->
 
 <!--
