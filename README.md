@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/Bhacaz/democraylist/issues/45) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-2. ❗️ Closed issue [#45](https://github.com/Bhacaz/democraylist/issues/45) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-3. ❗️ Opened issue [#45](https://github.com/Bhacaz/democraylist/issues/45) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-4. 💪 Opened PR [#44](https://github.com/Bhacaz/democraylist-be/pull/44) in [Bhacaz/democraylist-be](https://github.com/Bhacaz/democraylist-be)
-5. 💪 Opened PR [#21](https://github.com/petalmd/rubocop-petal/pull/21) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. 🎉 Merged PR [#44](https://github.com/Bhacaz/democraylist/pull/44) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+2. 🎉 Merged PR [#21](https://github.com/petalmd/rubocop-petal/pull/21) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 🗣 Commented on [#45](https://github.com/Bhacaz/democraylist/issues/45) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+4. ❗️ Closed issue [#45](https://github.com/Bhacaz/democraylist/issues/45) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+5. ❗️ Opened issue [#45](https://github.com/Bhacaz/democraylist/issues/45) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
 <!--END_SECTION:activity-->
 
 <!--
