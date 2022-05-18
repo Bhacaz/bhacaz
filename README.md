@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#61](https://github.com/petalmd/bright_serializer/pull/61) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. ❌ Closed PR [#63](https://github.com/petalmd/bright_serializer/pull/63) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. ❌ Closed PR [#68](https://github.com/petalmd/bright_serializer/pull/68) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. ❌ Closed PR [#87](https://github.com/petalmd/bright_serializer/pull/87) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. ❌ Closed PR [#89](https://github.com/petalmd/bright_serializer/pull/89) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 🗣 Commented on [#679](https://github.com/rubocop/rubocop-rails/issues/679) in [rubocop/rubocop-rails](https://github.com/rubocop/rubocop-rails)
+2. ❌ Closed PR [#61](https://github.com/petalmd/bright_serializer/pull/61) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. ❌ Closed PR [#63](https://github.com/petalmd/bright_serializer/pull/63) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. ❌ Closed PR [#68](https://github.com/petalmd/bright_serializer/pull/68) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. ❌ Closed PR [#87](https://github.com/petalmd/bright_serializer/pull/87) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
