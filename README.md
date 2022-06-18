@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42139](https://github.com/rails/rails/issues/42139) in [rails/rails](https://github.com/rails/rails)
-2. ❌ Closed PR [#58](https://github.com/petalmd/bright_serializer/pull/58) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 🗣 Commented on [#58](https://github.com/petalmd/bright_serializer/issues/58) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. ❌ Closed PR [#95](https://github.com/petalmd/bright_serializer/pull/95) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. ❌ Closed PR [#94](https://github.com/petalmd/bright_serializer/pull/94) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 💪 Opened PR [#10](https://github.com/Bhacaz/checkout-files/pull/10) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+2. ❗️ Closed issue [#8](https://github.com/Bhacaz/checkout-files/issues/8) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+3. 🎉 Merged PR [#6](https://github.com/Bhacaz/checkout-files/pull/6) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+4. 🎉 Merged PR [#5](https://github.com/Bhacaz/checkout-files/pull/5) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+5. ❗️ Closed issue [#7](https://github.com/Bhacaz/checkout-files/issues/7) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
 <!--END_SECTION:activity-->
 
 <!--
