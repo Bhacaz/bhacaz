@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/Bhacaz/democraylist/pull/50) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-2. 💪 Opened PR [#50](https://github.com/Bhacaz/democraylist/pull/50) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-3. 🎉 Merged PR [#48](https://github.com/Bhacaz/democraylist/pull/48) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-4. 💪 Opened PR [#48](https://github.com/Bhacaz/democraylist/pull/48) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-5. 🗣 Commented on [#15](https://github.com/Bhacaz/checkout-files/issues/15) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+1. 🎉 Merged PR [#51](https://github.com/Bhacaz/democraylist/pull/51) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+2. 💪 Opened PR [#51](https://github.com/Bhacaz/democraylist/pull/51) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+3. 🎉 Merged PR [#50](https://github.com/Bhacaz/democraylist/pull/50) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+4. 💪 Opened PR [#50](https://github.com/Bhacaz/democraylist/pull/50) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+5. 🎉 Merged PR [#48](https://github.com/Bhacaz/democraylist/pull/48) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
 <!--END_SECTION:activity-->
 
 <!--
