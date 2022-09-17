@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Bhacaz/checkout-files/issues/17) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-2. 🗣 Commented on [#16](https://github.com/Bhacaz/checkout-files/issues/16) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-3. 🎉 Merged PR [#51](https://github.com/Bhacaz/democraylist/pull/51) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-4. 💪 Opened PR [#51](https://github.com/Bhacaz/democraylist/pull/51) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-5. 🎉 Merged PR [#50](https://github.com/Bhacaz/democraylist/pull/50) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+1. ❗️ Opened issue [#23](https://github.com/petalmd/rubocop-petal/issues/23) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🗣 Commented on [#17](https://github.com/Bhacaz/checkout-files/issues/17) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+3. 🗣 Commented on [#16](https://github.com/Bhacaz/checkout-files/issues/16) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+4. 🎉 Merged PR [#51](https://github.com/Bhacaz/democraylist/pull/51) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+5. 💪 Opened PR [#51](https://github.com/Bhacaz/democraylist/pull/51) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
 <!--END_SECTION:activity-->
 
 <!--
