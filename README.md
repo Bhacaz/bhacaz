@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/petalmd/bright_serializer/pull/97) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 🗣 Commented on [#90](https://github.com/petalmd/bright_serializer/issues/90) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 💪 Opened PR [#97](https://github.com/petalmd/bright_serializer/pull/97) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 🎉 Merged PR [#96](https://github.com/petalmd/bright_serializer/pull/96) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 💪 Opened PR [#96](https://github.com/petalmd/bright_serializer/pull/96) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 🎉 Merged PR [#1](https://github.com/Bhacaz/journee-carriere-css-2021-participant/pull/1) in [Bhacaz/journee-carriere-css-2021-participant](https://github.com/Bhacaz/journee-carriere-css-2021-participant)
+2. 💪 Opened PR [#1](https://github.com/Bhacaz/journee-carriere-css-2021-participant/pull/1) in [Bhacaz/journee-carriere-css-2021-participant](https://github.com/Bhacaz/journee-carriere-css-2021-participant)
+3. 🎉 Merged PR [#97](https://github.com/petalmd/bright_serializer/pull/97) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 🗣 Commented on [#90](https://github.com/petalmd/bright_serializer/issues/90) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 💪 Opened PR [#97](https://github.com/petalmd/bright_serializer/pull/97) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
