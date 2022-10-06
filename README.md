@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/Bhacaz/checkout-files/issues/17) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-2. 🎉 Merged PR [#20](https://github.com/Bhacaz/checkout-files/pull/20) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-3. 💪 Opened PR [#20](https://github.com/Bhacaz/checkout-files/pull/20) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-4. 🎉 Merged PR [#1](https://github.com/Bhacaz/journee-carriere-css-2021-participant/pull/1) in [Bhacaz/journee-carriere-css-2021-participant](https://github.com/Bhacaz/journee-carriere-css-2021-participant)
-5. 💪 Opened PR [#1](https://github.com/Bhacaz/journee-carriere-css-2021-participant/pull/1) in [Bhacaz/journee-carriere-css-2021-participant](https://github.com/Bhacaz/journee-carriere-css-2021-participant)
+1. 💪 Opened PR [#98](https://github.com/petalmd/bright_serializer/pull/98) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+2. ❗️ Closed issue [#33](https://github.com/petalmd/bright_serializer/issues/33) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 🎉 Merged PR [#90](https://github.com/petalmd/bright_serializer/pull/90) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. ❗️ Closed issue [#17](https://github.com/Bhacaz/checkout-files/issues/17) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+5. 🎉 Merged PR [#20](https://github.com/Bhacaz/checkout-files/pull/20) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
 <!--END_SECTION:activity-->
 
 <!--
