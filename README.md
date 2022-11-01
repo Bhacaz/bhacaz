@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/petalmd/bright_serializer/pull/100) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 💪 Opened PR [#100](https://github.com/petalmd/bright_serializer/pull/100) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. ❗️ Closed issue [#25](https://github.com/petalmd/rubocop-petal/issues/25) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-4. 🎉 Merged PR [#26](https://github.com/petalmd/rubocop-petal/pull/26) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-5. 💪 Opened PR [#3](https://github.com/Bhacaz/journee-carriere-css-participants/pull/3) in [Bhacaz/journee-carriere-css-participants](https://github.com/Bhacaz/journee-carriere-css-participants)
+1. 🎉 Merged PR [#3](https://github.com/Bhacaz/journee-carriere-css-participants/pull/3) in [Bhacaz/journee-carriere-css-participants](https://github.com/Bhacaz/journee-carriere-css-participants)
+2. 🎉 Merged PR [#100](https://github.com/petalmd/bright_serializer/pull/100) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 💪 Opened PR [#100](https://github.com/petalmd/bright_serializer/pull/100) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. ❗️ Closed issue [#25](https://github.com/petalmd/rubocop-petal/issues/25) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+5. 🎉 Merged PR [#26](https://github.com/petalmd/rubocop-petal/pull/26) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
 <!--END_SECTION:activity-->
 
 <!--
