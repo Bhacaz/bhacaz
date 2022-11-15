@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/petalmd/bright_serializer/issues/31) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 🎉 Merged PR [#49](https://github.com/petalmd/bright_serializer/pull/49) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 🎉 Merged PR [#3](https://github.com/Bhacaz/journee-carriere-css-participants/pull/3) in [Bhacaz/journee-carriere-css-participants](https://github.com/Bhacaz/journee-carriere-css-participants)
-4. 🎉 Merged PR [#100](https://github.com/petalmd/bright_serializer/pull/100) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 💪 Opened PR [#100](https://github.com/petalmd/bright_serializer/pull/100) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. ❗️ Opened issue [#5](https://github.com/petalmd/gravity_mailbox/issues/5) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+2. ❗️ Opened issue [#4](https://github.com/petalmd/gravity_mailbox/issues/4) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+3. ❗️ Opened issue [#3](https://github.com/petalmd/gravity_mailbox/issues/3) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+4. ❗️ Opened issue [#2](https://github.com/petalmd/gravity_mailbox/issues/2) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+5. ❗️ Opened issue [#1](https://github.com/petalmd/gravity_mailbox/issues/1) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
 <!--END_SECTION:activity-->
 
 <!--
