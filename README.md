@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/petalmd/gravity_mailbox/issues/6) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-2. ❗️ Opened issue [#5](https://github.com/petalmd/gravity_mailbox/issues/5) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-3. ❗️ Opened issue [#4](https://github.com/petalmd/gravity_mailbox/issues/4) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-4. ❗️ Opened issue [#3](https://github.com/petalmd/gravity_mailbox/issues/3) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-5. ❗️ Opened issue [#2](https://github.com/petalmd/gravity_mailbox/issues/2) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+1. 🗣 Commented on [#1](https://github.com/Bhacaz/docs-as-code-confluence/issues/1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+2. ❗️ Opened issue [#6](https://github.com/petalmd/gravity_mailbox/issues/6) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+3. ❗️ Opened issue [#5](https://github.com/petalmd/gravity_mailbox/issues/5) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+4. ❗️ Opened issue [#4](https://github.com/petalmd/gravity_mailbox/issues/4) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+5. ❗️ Opened issue [#3](https://github.com/petalmd/gravity_mailbox/issues/3) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
 <!--END_SECTION:activity-->
 
 <!--
