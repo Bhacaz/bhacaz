@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Bhacaz/docs-as-code-confluence/issues/2) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-2. 💪 Opened PR [#3](https://github.com/Bhacaz/docs-as-code-confluence/pull/3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-3. 🗣 Commented on [#1](https://github.com/Bhacaz/docs-as-code-confluence/issues/1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-4. ❗️ Opened issue [#6](https://github.com/petalmd/gravity_mailbox/issues/6) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-5. ❗️ Opened issue [#5](https://github.com/petalmd/gravity_mailbox/issues/5) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+1. 🎉 Merged PR [#8](https://github.com/petalmd/gravity_mailbox/pull/8) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+2. ❗️ Closed issue [#6](https://github.com/petalmd/gravity_mailbox/issues/6) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+3. ❗️ Closed issue [#5](https://github.com/petalmd/gravity_mailbox/issues/5) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+4. ❗️ Closed issue [#3](https://github.com/petalmd/gravity_mailbox/issues/3) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+5. 🎉 Merged PR [#7](https://github.com/petalmd/gravity_mailbox/pull/7) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
 <!--END_SECTION:activity-->
 
 <!--
