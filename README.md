@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Bhacaz/docs-as-code-confluence/issues/3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-2. ❌ Closed PR [#3](https://github.com/Bhacaz/docs-as-code-confluence/pull/3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-3. 🎉 Merged PR [#5](https://github.com/Bhacaz/docs-as-code-confluence/pull/5) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-4. ❗️ Closed issue [#2](https://github.com/Bhacaz/docs-as-code-confluence/issues/2) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-5. 💪 Opened PR [#5](https://github.com/Bhacaz/docs-as-code-confluence/pull/5) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+1. 🎉 Merged PR [#6](https://github.com/Bhacaz/docs-as-code-confluence/pull/6) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+2. 🗣 Commented on [#6](https://github.com/Bhacaz/docs-as-code-confluence/issues/6) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+3. 🗣 Commented on [#3](https://github.com/Bhacaz/docs-as-code-confluence/issues/3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+4. ❌ Closed PR [#3](https://github.com/Bhacaz/docs-as-code-confluence/pull/3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+5. 🎉 Merged PR [#5](https://github.com/Bhacaz/docs-as-code-confluence/pull/5) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
 <!--END_SECTION:activity-->
 
 <!--
