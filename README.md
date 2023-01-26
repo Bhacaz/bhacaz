@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/petalmd/gravity_mailbox/pull/15) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-2. 💪 Opened PR [#15](https://github.com/petalmd/gravity_mailbox/pull/15) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-3. 🎉 Merged PR [#12](https://github.com/petalmd/gravity_mailbox/pull/12) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-4. 🎉 Merged PR [#1](https://github.com/Bhacaz/test/pull/1) in [Bhacaz/test](https://github.com/Bhacaz/test)
-5. 💪 Opened PR [#1](https://github.com/Bhacaz/test/pull/1) in [Bhacaz/test](https://github.com/Bhacaz/test)
+1. ❗️ Opened issue [#103](https://github.com/petalmd/bright_serializer/issues/103) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+2. 🎉 Merged PR [#15](https://github.com/petalmd/gravity_mailbox/pull/15) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+3. 💪 Opened PR [#15](https://github.com/petalmd/gravity_mailbox/pull/15) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+4. 🎉 Merged PR [#12](https://github.com/petalmd/gravity_mailbox/pull/12) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+5. 🎉 Merged PR [#1](https://github.com/Bhacaz/test/pull/1) in [Bhacaz/test](https://github.com/Bhacaz/test)
 <!--END_SECTION:activity-->
 
 <!--
