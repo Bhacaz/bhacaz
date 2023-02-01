@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#103](https://github.com/petalmd/bright_serializer/issues/103) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 🎉 Merged PR [#15](https://github.com/petalmd/gravity_mailbox/pull/15) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-3. 💪 Opened PR [#15](https://github.com/petalmd/gravity_mailbox/pull/15) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-4. 🎉 Merged PR [#12](https://github.com/petalmd/gravity_mailbox/pull/12) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-5. 🎉 Merged PR [#1](https://github.com/Bhacaz/test/pull/1) in [Bhacaz/test](https://github.com/Bhacaz/test)
+1. 🗣 Commented on [#4](https://github.com/Bhacaz/label-regex/issues/4) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+2. ❗️ Closed issue [#4](https://github.com/Bhacaz/label-regex/issues/4) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+3. 🎉 Merged PR [#5](https://github.com/Bhacaz/label-regex/pull/5) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+4. 🗣 Commented on [#4](https://github.com/Bhacaz/label-regex/issues/4) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+5. 💪 Opened PR [#5](https://github.com/Bhacaz/label-regex/pull/5) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
 <!--END_SECTION:activity-->
 
 <!--
