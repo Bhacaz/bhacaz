@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Bhacaz/checkout-files/issues/18) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-2. 🗣 Commented on [#21](https://github.com/Bhacaz/checkout-files/issues/21) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-3. ❗️ Closed issue [#21](https://github.com/Bhacaz/checkout-files/issues/21) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-4. 🗣 Commented on [#4](https://github.com/Bhacaz/label-regex/issues/4) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-5. ❗️ Closed issue [#4](https://github.com/Bhacaz/label-regex/issues/4) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+1. ❗️ Closed issue [#18](https://github.com/Bhacaz/checkout-files/issues/18) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+2. 🎉 Merged PR [#22](https://github.com/Bhacaz/checkout-files/pull/22) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+3. 💪 Opened PR [#22](https://github.com/Bhacaz/checkout-files/pull/22) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+4. 🗣 Commented on [#18](https://github.com/Bhacaz/checkout-files/issues/18) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+5. 🗣 Commented on [#21](https://github.com/Bhacaz/checkout-files/issues/21) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
 <!--END_SECTION:activity-->
 
 <!--
