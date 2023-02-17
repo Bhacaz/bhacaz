@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Bhacaz/checkout-files/issues/23) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
-2. 🎉 Merged PR [#99](https://github.com/petalmd/bright_serializer/pull/99) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 🎉 Merged PR [#106](https://github.com/petalmd/bright_serializer/pull/106) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 💪 Opened PR [#106](https://github.com/petalmd/bright_serializer/pull/106) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. ❗️ Closed issue [#18](https://github.com/Bhacaz/checkout-files/issues/18) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+1. 💪 Opened PR [#34](https://github.com/petalmd/rubocop-petal/pull/34) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🎉 Merged PR [#31](https://github.com/petalmd/rubocop-petal/pull/31) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 🗣 Commented on [#23](https://github.com/Bhacaz/checkout-files/issues/23) in [Bhacaz/checkout-files](https://github.com/Bhacaz/checkout-files)
+4. 🎉 Merged PR [#99](https://github.com/petalmd/bright_serializer/pull/99) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 🎉 Merged PR [#106](https://github.com/petalmd/bright_serializer/pull/106) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
