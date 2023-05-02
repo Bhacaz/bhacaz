@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/petalmd/bright_serializer/pull/111) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-2. 💪 Opened PR [#111](https://github.com/petalmd/bright_serializer/pull/111) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 🎉 Merged PR [#110](https://github.com/petalmd/bright_serializer/pull/110) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 💪 Opened PR [#110](https://github.com/petalmd/bright_serializer/pull/110) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-5. 🎉 Merged PR [#107](https://github.com/petalmd/bright_serializer/pull/107) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+1. 🗣 Commented on [#40](https://github.com/petalmd/rubocop-petal/issues/40) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🎉 Merged PR [#111](https://github.com/petalmd/bright_serializer/pull/111) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+3. 💪 Opened PR [#111](https://github.com/petalmd/bright_serializer/pull/111) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 🎉 Merged PR [#110](https://github.com/petalmd/bright_serializer/pull/110) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 💪 Opened PR [#110](https://github.com/petalmd/bright_serializer/pull/110) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
 <!--END_SECTION:activity-->
 
 <!--
