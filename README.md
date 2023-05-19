@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/petalmd/rubocop-petal/issues/41) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. 🎉 Merged PR [#41](https://github.com/petalmd/rubocop-petal/pull/41) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-3. 💪 Opened PR [#11872](https://github.com/rubocop/rubocop/pull/11872) in [rubocop/rubocop](https://github.com/rubocop/rubocop)
-4. 🎉 Merged PR [#372](https://github.com/Bhacaz/rubocop/pull/372) in [Bhacaz/rubocop](https://github.com/Bhacaz/rubocop)
-5. 🗣 Commented on [#41](https://github.com/petalmd/rubocop-petal/issues/41) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. 💪 Opened PR [#46](https://github.com/petalmd/rubocop-petal/pull/46) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🗣 Commented on [#41](https://github.com/petalmd/rubocop-petal/issues/41) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 🎉 Merged PR [#41](https://github.com/petalmd/rubocop-petal/pull/41) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+4. 💪 Opened PR [#11872](https://github.com/rubocop/rubocop/pull/11872) in [rubocop/rubocop](https://github.com/rubocop/rubocop)
+5. 🎉 Merged PR [#372](https://github.com/Bhacaz/rubocop/pull/372) in [Bhacaz/rubocop](https://github.com/Bhacaz/rubocop)
 <!--END_SECTION:activity-->
 
 <!--
