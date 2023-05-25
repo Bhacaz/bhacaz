@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/petalmd/gravity_mailbox/pull/18) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
-2. 🎉 Merged PR [#49](https://github.com/petalmd/rubocop-petal/pull/49) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-3. 💪 Opened PR [#49](https://github.com/petalmd/rubocop-petal/pull/49) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-4. 💪 Opened PR [#48](https://github.com/petalmd/rubocop-petal/pull/48) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-5. 🗣 Commented on [#47630](https://github.com/rails/rails/issues/47630) in [rails/rails](https://github.com/rails/rails)
+1. ❗️ Closed issue [#45](https://github.com/petalmd/rubocop-petal/issues/45) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🎉 Merged PR [#48](https://github.com/petalmd/rubocop-petal/pull/48) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 💪 Opened PR [#18](https://github.com/petalmd/gravity_mailbox/pull/18) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+4. 🎉 Merged PR [#49](https://github.com/petalmd/rubocop-petal/pull/49) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+5. 💪 Opened PR [#49](https://github.com/petalmd/rubocop-petal/pull/49) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
 <!--END_SECTION:activity-->
 
 <!--
