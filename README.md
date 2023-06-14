@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/Bhacaz/democraylist/pull/67) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-2. 💪 Opened PR [#67](https://github.com/Bhacaz/democraylist/pull/67) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-3. 🎉 Merged PR [#51](https://github.com/petalmd/rubocop-petal/pull/51) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-4. 💪 Opened PR [#51](https://github.com/petalmd/rubocop-petal/pull/51) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-5. 🎉 Merged PR [#50](https://github.com/petalmd/rubocop-petal/pull/50) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. ❗ Opened issue [#53](https://github.com/petalmd/rubocop-petal/issues/53) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🎉 Merged PR [#67](https://github.com/Bhacaz/democraylist/pull/67) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+3. 💪 Opened PR [#67](https://github.com/Bhacaz/democraylist/pull/67) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
+4. 🎉 Merged PR [#51](https://github.com/petalmd/rubocop-petal/pull/51) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+5. 💪 Opened PR [#51](https://github.com/petalmd/rubocop-petal/pull/51) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
 <!--END_SECTION:activity-->
 
 <!--
