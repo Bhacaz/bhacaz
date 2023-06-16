@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#53](https://github.com/petalmd/rubocop-petal/issues/53) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. 🎉 Merged PR [#67](https://github.com/Bhacaz/democraylist/pull/67) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-3. 💪 Opened PR [#67](https://github.com/Bhacaz/democraylist/pull/67) in [Bhacaz/democraylist](https://github.com/Bhacaz/democraylist)
-4. 🎉 Merged PR [#51](https://github.com/petalmd/rubocop-petal/pull/51) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-5. 💪 Opened PR [#51](https://github.com/petalmd/rubocop-petal/pull/51) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. ❌ Closed PR [#17](https://github.com/petalmd/gravity_mailbox/pull/17) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+2. 🎉 Merged PR [#20](https://github.com/petalmd/gravity_mailbox/pull/20) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+3. 💪 Opened PR [#20](https://github.com/petalmd/gravity_mailbox/pull/20) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+4. 🎉 Merged PR [#19](https://github.com/petalmd/gravity_mailbox/pull/19) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
+5. 💪 Opened PR [#19](https://github.com/petalmd/gravity_mailbox/pull/19) in [petalmd/gravity_mailbox](https://github.com/petalmd/gravity_mailbox)
 <!--END_SECTION:activity-->
 
 <!--
