@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#59](https://github.com/petalmd/rubocop-petal/issues/59) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. ❌ Closed PR [#112](https://github.com/petalmd/bright_serializer/pull/112) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-3. 💪 Opened PR [#112](https://github.com/petalmd/bright_serializer/pull/112) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
-4. 🔒 Closed issue [#56](https://github.com/petalmd/rubocop-petal/issues/56) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-5. 🗣 Commented on [#56](https://github.com/petalmd/rubocop-petal/issues/56#issuecomment-1602636607) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. 🎉 Merged PR [#20](https://github.com/Bhacaz/grape-swagger/pull/20) in [Bhacaz/grape-swagger](https://github.com/Bhacaz/grape-swagger)
+2. ❗ Opened issue [#59](https://github.com/petalmd/rubocop-petal/issues/59) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. ❌ Closed PR [#112](https://github.com/petalmd/bright_serializer/pull/112) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+4. 💪 Opened PR [#112](https://github.com/petalmd/bright_serializer/pull/112) in [petalmd/bright_serializer](https://github.com/petalmd/bright_serializer)
+5. 🔒 Closed issue [#56](https://github.com/petalmd/rubocop-petal/issues/56) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
 <!--END_SECTION:activity-->
 
 <!--
