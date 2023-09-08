@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](https://github.com/petalmd/rubocop-petal/pull/37) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. ❌ Closed PR [#38](https://github.com/petalmd/rubocop-petal/pull/38) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-3. ❌ Closed PR [#22](https://github.com/petalmd/rubocop-petal/pull/22) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-4. ❗ Opened issue [#60](https://github.com/petalmd/rubocop-petal/issues/60) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-5. 🎉 Merged PR [#20](https://github.com/Bhacaz/grape-swagger/pull/20) in [Bhacaz/grape-swagger](https://github.com/Bhacaz/grape-swagger)
+1. 🔒 Closed issue [#61](https://github.com/petalmd/rubocop-petal/issues/61) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🎉 Merged PR [#62](https://github.com/petalmd/rubocop-petal/pull/62) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 💪 Opened PR [#62](https://github.com/petalmd/rubocop-petal/pull/62) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+4. ❗ Opened issue [#61](https://github.com/petalmd/rubocop-petal/issues/61) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+5. ❌ Closed PR [#37](https://github.com/petalmd/rubocop-petal/pull/37) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
 <!--END_SECTION:activity-->
 
 <!--
