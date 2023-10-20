@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/petalmd/rubocop-petal/issues/67#issuecomment-1745580695) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. 🔒 Closed issue [#42](https://github.com/petalmd/rubocop-petal/issues/42) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-3. 🎉 Merged PR [#65](https://github.com/petalmd/rubocop-petal/pull/65) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-4. 🔒 Closed issue [#63](https://github.com/petalmd/rubocop-petal/issues/63) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-5. 🎉 Merged PR [#64](https://github.com/petalmd/rubocop-petal/pull/64) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. 🚀 Published release [v2](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v2) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+2. 🔒 Closed issue [#1](https://github.com/Bhacaz/docs-as-code-confluence/issues/1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+3. 🎉 Merged PR [#9](https://github.com/Bhacaz/docs-as-code-confluence/pull/9) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+4. 💪 Opened PR [#9](https://github.com/Bhacaz/docs-as-code-confluence/pull/9) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+5. 🗣 Commented on [#67](https://github.com/petalmd/rubocop-petal/issues/67#issuecomment-1745580695) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
 <!--END_SECTION:activity-->
 
 <!--
