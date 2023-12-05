@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#69](https://github.com/petalmd/rubocop-petal/issues/69) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. 🗣 Commented on [#59](https://github.com/petalmd/rubocop-petal/issues/59#issuecomment-1802304086) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-3. 🎉 Merged PR [#4](https://github.com/Bhacaz/journee-carriere-css-participants/pull/4) in [Bhacaz/journee-carriere-css-participants](https://github.com/Bhacaz/journee-carriere-css-participants)
-4. 💪 Opened PR [#4](https://github.com/Bhacaz/journee-carriere-css-participants/pull/4) in [Bhacaz/journee-carriere-css-participants](https://github.com/Bhacaz/journee-carriere-css-participants)
-5. 🚀 Published release [v2](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v2) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+1. ❗ Opened issue [#71](https://github.com/petalmd/rubocop-petal/issues/71) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. ❗ Opened issue [#69](https://github.com/petalmd/rubocop-petal/issues/69) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 🗣 Commented on [#59](https://github.com/petalmd/rubocop-petal/issues/59#issuecomment-1802304086) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+4. 🎉 Merged PR [#4](https://github.com/Bhacaz/journee-carriere-css-participants/pull/4) in [Bhacaz/journee-carriere-css-participants](https://github.com/Bhacaz/journee-carriere-css-participants)
+5. 💪 Opened PR [#4](https://github.com/Bhacaz/journee-carriere-css-participants/pull/4) in [Bhacaz/journee-carriere-css-participants](https://github.com/Bhacaz/journee-carriere-css-participants)
 <!--END_SECTION:activity-->
 
 <!--
