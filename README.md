@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.1) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-2. 🚀 Published release [v0.1.0](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.0) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-3. 🎉 Merged PR [#1](https://github.com/Bhacaz/gh-signet/pull/1) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
-4. 💪 Opened PR [#1](https://github.com/Bhacaz/gh-signet/pull/1) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
-5. 🔒 Closed issue [#59](https://github.com/petalmd/rubocop-petal/issues/59) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. 💪 Opened PR [#37](https://github.com/jayfajardo/openlibrary/pull/37) in [jayfajardo/openlibrary](https://github.com/jayfajardo/openlibrary)
+2. 🚀 Published release [v0.1.1](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.1) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+3. 🚀 Published release [v0.1.0](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.0) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+4. 🎉 Merged PR [#1](https://github.com/Bhacaz/gh-signet/pull/1) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
+5. 💪 Opened PR [#1](https://github.com/Bhacaz/gh-signet/pull/1) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
 <!--END_SECTION:activity-->
 
 <!--
