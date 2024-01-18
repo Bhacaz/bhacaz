@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/jayfajardo/openlibrary/pull/37) in [jayfajardo/openlibrary](https://github.com/jayfajardo/openlibrary)
-2. 🚀 Published release [v0.1.1](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.1) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-3. 🚀 Published release [v0.1.0](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.0) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-4. 🎉 Merged PR [#1](https://github.com/Bhacaz/gh-signet/pull/1) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
-5. 💪 Opened PR [#1](https://github.com/Bhacaz/gh-signet/pull/1) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
+1. 🚀 Published release [v2.1](https://github.com/Bhacaz/label-regex/releases/tag/v2.1) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+2. 🎉 Merged PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+3. 💪 Opened PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+4. 💪 Opened PR [#37](https://github.com/jayfajardo/openlibrary/pull/37) in [jayfajardo/openlibrary](https://github.com/jayfajardo/openlibrary)
+5. 🚀 Published release [v0.1.1](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.1) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
 <!--END_SECTION:activity-->
 
 <!--
