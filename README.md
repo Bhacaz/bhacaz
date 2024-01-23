@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1](https://github.com/Bhacaz/label-regex/releases/tag/v2.1) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-2. 🎉 Merged PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-3. 💪 Opened PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-4. 💪 Opened PR [#37](https://github.com/jayfajardo/openlibrary/pull/37) in [jayfajardo/openlibrary](https://github.com/jayfajardo/openlibrary)
-5. 🚀 Published release [v0.1.1](https://github.com/Bhacaz/gostacking/releases/tag/v0.1.1) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+1. 🗣 Commented on [#76](https://github.com/petalmd/rubocop-petal/issues/76#issuecomment-1904206401) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 🚀 Published release [v2.1](https://github.com/Bhacaz/label-regex/releases/tag/v2.1) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+3. 🎉 Merged PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+4. 💪 Opened PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+5. 💪 Opened PR [#37](https://github.com/jayfajardo/openlibrary/pull/37) in [jayfajardo/openlibrary](https://github.com/jayfajardo/openlibrary)
 <!--END_SECTION:activity-->
 
 <!--
