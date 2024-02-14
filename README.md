@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/petalmd/rubocop-petal/issues/76#issuecomment-1904206401) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-2. 🚀 Published release [v2.1](https://github.com/Bhacaz/label-regex/releases/tag/v2.1) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-3. 🎉 Merged PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-4. 💪 Opened PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
-5. 💪 Opened PR [#37](https://github.com/jayfajardo/openlibrary/pull/37) in [jayfajardo/openlibrary](https://github.com/jayfajardo/openlibrary)
+1. 🎉 Merged PR [#78](https://github.com/petalmd/rubocop-petal/pull/78) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. 💪 Opened PR [#78](https://github.com/petalmd/rubocop-petal/pull/78) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+3. 🗣 Commented on [#76](https://github.com/petalmd/rubocop-petal/issues/76#issuecomment-1904206401) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+4. 🚀 Published release [v2.1](https://github.com/Bhacaz/label-regex/releases/tag/v2.1) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
+5. 🎉 Merged PR [#6](https://github.com/Bhacaz/label-regex/pull/6) in [Bhacaz/label-regex](https://github.com/Bhacaz/label-regex)
 <!--END_SECTION:activity-->
 
 <!--
