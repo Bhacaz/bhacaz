@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Bhacaz/gostacking/issues/9) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-2. 🚀 Published release [v0.4.1](https://github.com/Bhacaz/gostacking/releases/tag/v0.4.1) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-3. 🚀 Published release [v0.4.0](https://github.com/Bhacaz/gostacking/releases/tag/v0.4.0) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-4. 🎉 Merged PR [#8](https://github.com/Bhacaz/gostacking/pull/8) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-5. 💪 Opened PR [#8](https://github.com/Bhacaz/gostacking/pull/8) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+1. 🚀 Published release [v0.4.3](https://github.com/Bhacaz/gostacking/releases/tag/v0.4.3) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+2. 🚀 Published release [v0.4.2](https://github.com/Bhacaz/gostacking/releases/tag/v0.4.2) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+3. 🎉 Merged PR [#12](https://github.com/Bhacaz/gostacking/pull/12) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+4. 💪 Opened PR [#12](https://github.com/Bhacaz/gostacking/pull/12) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+5. 🎉 Merged PR [#11](https://github.com/Bhacaz/gostacking/pull/11) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
 <!--END_SECTION:activity-->
 
 <!--
