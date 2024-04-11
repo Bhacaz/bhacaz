@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/Bhacaz/gostacking/issues/24) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-2. ❗ Opened issue [#23](https://github.com/Bhacaz/gostacking/issues/23) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-3. ❗ Opened issue [#22](https://github.com/Bhacaz/gostacking/issues/22) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-4. ❗ Opened issue [#21](https://github.com/Bhacaz/gostacking/issues/21) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-5. 🎉 Merged PR [#80](https://github.com/petalmd/rubocop-petal/pull/80) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. 🚀 Published release [v0.9.0](https://github.com/Bhacaz/gostacking/releases/tag/v0.9.0) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+2. 🔒 Closed issue [#21](https://github.com/Bhacaz/gostacking/issues/21) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+3. 🎉 Merged PR [#27](https://github.com/Bhacaz/gostacking/pull/27) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+4. 💪 Opened PR [#27](https://github.com/Bhacaz/gostacking/pull/27) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+5. 🔒 Closed issue [#23](https://github.com/Bhacaz/gostacking/issues/23) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
 <!--END_SECTION:activity-->
 
 <!--
