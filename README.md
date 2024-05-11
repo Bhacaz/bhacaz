@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-2. 🔒 Closed issue [#10](https://github.com/Bhacaz/docs-as-code-confluence/issues/10) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-3. 🎉 Merged PR [#11](https://github.com/Bhacaz/docs-as-code-confluence/pull/11) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-4. 💪 Opened PR [#11](https://github.com/Bhacaz/docs-as-code-confluence/pull/11) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-5. 🗣 Commented on [#56](https://github.com/petalmd/rubocop-petal/issues/56#issuecomment-2059813783) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+1. 💪 Opened PR [#48](https://github.com/fractaledmind/solid_errors/pull/48) in [fractaledmind/solid_errors](https://github.com/fractaledmind/solid_errors)
+2. 💪 Opened PR [#47](https://github.com/fractaledmind/solid_errors/pull/47) in [fractaledmind/solid_errors](https://github.com/fractaledmind/solid_errors)
+3. 🚀 Published release [v3](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+4. 🔒 Closed issue [#10](https://github.com/Bhacaz/docs-as-code-confluence/issues/10) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+5. 🎉 Merged PR [#11](https://github.com/Bhacaz/docs-as-code-confluence/pull/11) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
 <!--END_SECTION:activity-->
 
 <!--
