@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/fractaledmind/solid_errors/pull/48) in [fractaledmind/solid_errors](https://github.com/fractaledmind/solid_errors)
-2. 💪 Opened PR [#47](https://github.com/fractaledmind/solid_errors/pull/47) in [fractaledmind/solid_errors](https://github.com/fractaledmind/solid_errors)
-3. 🚀 Published release [v3](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-4. 🔒 Closed issue [#10](https://github.com/Bhacaz/docs-as-code-confluence/issues/10) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-5. 🎉 Merged PR [#11](https://github.com/Bhacaz/docs-as-code-confluence/pull/11) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+1. 🚀 Published release [v3.1.1](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1.1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+2. 🎉 Merged PR [#14](https://github.com/Bhacaz/docs-as-code-confluence/pull/14) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+3. 🚀 Published release [v3.1](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+4. 🔒 Closed issue [#7](https://github.com/Bhacaz/docs-as-code-confluence/issues/7) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+5. 🎉 Merged PR [#13](https://github.com/Bhacaz/docs-as-code-confluence/pull/13) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
 <!--END_SECTION:activity-->
 
 <!--
