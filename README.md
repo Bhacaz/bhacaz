@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.1.2](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1.2) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-2. 🎉 Merged PR [#15](https://github.com/Bhacaz/docs-as-code-confluence/pull/15) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-3. 🚀 Published release [v3.1.1](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1.1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-4. 🎉 Merged PR [#14](https://github.com/Bhacaz/docs-as-code-confluence/pull/14) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-5. 🚀 Published release [v3.1](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+1. 🎉 Merged PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
+2. 💪 Opened PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
+3. 🚀 Published release [v3.1.2](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1.2) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+4. 🎉 Merged PR [#15](https://github.com/Bhacaz/docs-as-code-confluence/pull/15) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+5. 🚀 Published release [v3.1.1](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1.1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
 <!--END_SECTION:activity-->
 
 <!--
