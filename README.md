@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
-2. 💪 Opened PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
-3. 🚀 Published release [v3.1.2](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1.2) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-4. 🎉 Merged PR [#15](https://github.com/Bhacaz/docs-as-code-confluence/pull/15) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
-5. 🚀 Published release [v3.1.1](https://github.com/Bhacaz/docs-as-code-confluence/releases/tag/v3.1.1) in [Bhacaz/docs-as-code-confluence](https://github.com/Bhacaz/docs-as-code-confluence)
+1. 🎉 Merged PR [#1](https://github.com/Bhacaz/solid_apm/pull/1) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
+2. 💪 Opened PR [#1](https://github.com/Bhacaz/solid_apm/pull/1) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
+3. 🎉 Merged PR [#77](https://github.com/petalmd/rubocop-petal/pull/77) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+4. 🎉 Merged PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
+5. 💪 Opened PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
 <!--END_SECTION:activity-->
 
 <!--
