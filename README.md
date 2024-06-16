@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bhacaz/solid_apm/pull/1) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
-2. 💪 Opened PR [#1](https://github.com/Bhacaz/solid_apm/pull/1) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
-3. 🎉 Merged PR [#77](https://github.com/petalmd/rubocop-petal/pull/77) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
-4. 🎉 Merged PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
-5. 💪 Opened PR [#2](https://github.com/Bhacaz/gh-signet/pull/2) in [Bhacaz/gh-signet](https://github.com/Bhacaz/gh-signet)
+1. 🎉 Merged PR [#2](https://github.com/Bhacaz/solid_apm/pull/2) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
+2. 💪 Opened PR [#2](https://github.com/Bhacaz/solid_apm/pull/2) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
+3. 🎉 Merged PR [#1](https://github.com/Bhacaz/solid_apm/pull/1) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
+4. 💪 Opened PR [#1](https://github.com/Bhacaz/solid_apm/pull/1) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
+5. 🎉 Merged PR [#77](https://github.com/petalmd/rubocop-petal/pull/77) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
 <!--END_SECTION:activity-->
 
 <!--
