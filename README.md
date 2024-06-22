@@ -3,11 +3,11 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/Bhacaz/gostacking/issues/29) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-2. ❗ Opened issue [#28](https://github.com/Bhacaz/gostacking/issues/28) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
-3. ❗ Opened issue [#3](https://github.com/petalmd/detect-alter-table/issues/3) in [petalmd/detect-alter-table](https://github.com/petalmd/detect-alter-table)
-4. 🎉 Merged PR [#2](https://github.com/Bhacaz/solid_apm/pull/2) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
-5. 💪 Opened PR [#2](https://github.com/Bhacaz/solid_apm/pull/2) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
+1. 💪 Opened PR [#82](https://github.com/petalmd/rubocop-petal/pull/82) in [petalmd/rubocop-petal](https://github.com/petalmd/rubocop-petal)
+2. ❗ Opened issue [#29](https://github.com/Bhacaz/gostacking/issues/29) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+3. ❗ Opened issue [#28](https://github.com/Bhacaz/gostacking/issues/28) in [Bhacaz/gostacking](https://github.com/Bhacaz/gostacking)
+4. ❗ Opened issue [#3](https://github.com/petalmd/detect-alter-table/issues/3) in [petalmd/detect-alter-table](https://github.com/petalmd/detect-alter-table)
+5. 🎉 Merged PR [#2](https://github.com/Bhacaz/solid_apm/pull/2) in [Bhacaz/solid_apm](https://github.com/Bhacaz/solid_apm)
 <!--END_SECTION:activity-->
 
 <!--
