@@ -16,6 +16,8 @@
 * **[BrightSerializer](https://github.com/petalmd/bright_serializer)** - Fast and light Ruby serializer with Grape OpenAPI Entity
 * **[GravityMailbox](https://github.com/petalmd/gravity_mailbox)** -  Rails Engine for ActionMailer that aim to make it simple to visualize mail sent by your Rails app directly through your Rails app.
 
+## [Open source contributions](https://github.com/search?q=is%3Apr+author%3ABhacaz+-org%3ABhacaz++-org%3Apetalmd++created%3A%3E2017-01-01&type=pullrequests)
+
 ## Private source webapp
 
 for familly and friends, but publicly available.
